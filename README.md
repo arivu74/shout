@@ -1,4 +1,4 @@
-# shout
+# shout - Simple weekend app 
 Install this app
 
 Provide SMS read permission for the app during the installation
